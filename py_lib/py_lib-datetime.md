@@ -1,1 +1,1 @@
-https://mkaz.tech/python-dates.html
+https://mkaz.blog/code/python-dates/
