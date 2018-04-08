@@ -18,7 +18,7 @@ String Formatting Operators
 Resources
 ---------
 
--	[New syntax (Python 3): Python String Format Cookbook](https://mkaz.tech/python-string-format.html) by mkaz
+-	[New syntax (Python 3): Python String Format Cookbook](https://mkaz.blog/code/python-string-format-cookbook/) by mkaz
 -	[stackoverflow dicussion](http://stackoverflow.com/questions/13945749/string-formatting-in-python-3)
 -	[Py Format](https://pyformat.info)
 
